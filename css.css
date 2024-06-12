@@ -178,6 +178,15 @@ select, button {
     /*background: rgba(255, 255, 255, 0.45);*/
     max-width: 80%;
 }
+.mb3btn:hover
+{
+    transition: 0.3s;
+    background: #ff0000;
+    box-shadow: #efefef;
+    color: #fff;
+    font-weight: bold;
+
+}
 
 
 
