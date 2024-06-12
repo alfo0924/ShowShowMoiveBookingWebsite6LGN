@@ -171,6 +171,12 @@ select, button {
     background: rgba(255, 255, 255, 0.8);
 }
 
+.container-mb-3
+{
+
+    padding: 150px;
+    /*background: rgba(255, 255, 255, 0.45);*/
+}
 
 
 
